@@ -22,3 +22,4 @@ This project is a simple port scanner developed using Python. It scans a target 
 
 ##  How to Run
 ```bash
+python port_scanner.py
