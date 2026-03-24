@@ -15,10 +15,10 @@ This project is a simple port scanner developed using Python. It scans a target 
 ##  Screenshots
 
 ### 🔹 Code
-![Code Screenshot](screenshots/code.png)
+![Code Screenshots](screenshot/code.png)
 
 ### 🔹 Output
-![Output Screenshot](screenshots/output.png)
+![Output Screenshots](screenshot/output.png)
 
 ##  How to Run
 ```bash
