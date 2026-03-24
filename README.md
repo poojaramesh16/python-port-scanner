@@ -12,10 +12,6 @@ This project is a simple port scanner developed using Python. It scans a target 
 - Python
 - Socket Programming
 
-##  How to Run
-```bash
-python port_scanner.py
-
 ##  Screenshots
 
 ### 🔹 Code
@@ -23,3 +19,6 @@ python port_scanner.py
 
 ### 🔹 Output
 ![Output Screenshot](screenshots/output.png)
+
+##  How to Run
+```bash
